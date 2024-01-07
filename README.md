@@ -62,3 +62,16 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 **Client:** HTML,CSS,Javascript
 
 **Server:** JsonPowerDB
+
+## Screenshots
+
+![3](https://github.com/indraaSen/studentEnrollmentForm/assets/154053128/17643a46-b21b-4ba2-91b2-2c071316071b)
+![2](https://github.com/indraaSen/studentEnrollmentForm/assets/154053128/227774f4-4180-4173-8155-d2fa9bb2018a)
+![1](https://github.com/indraaSen/studentEnrollmentForm/assets/154053128/b3d72d78-c0c4-4b2d-850f-db5e85135194)
+![4](https://github.com/indraaSen/studentEnrollmentForm/assets/154053128/fe5cddab-8d83-4b1d-be62-4cc5ce3ae33a)
+
+
+### Mobile View
+
+![5](https://github.com/indraaSen/studentEnrollmentForm/assets/154053128/108b5e7b-1512-4709-a337-7ebd40c63901)
+
